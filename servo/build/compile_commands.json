@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++    -g   -o CMakeFiles/servo.dir/main.cpp.o -c \"/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/main.cpp\"",
+  "file": "/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++    -g   -o CMakeFiles/servo.dir/sg90.cpp.o -c \"/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/sg90.cpp\"",
+  "file": "/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/sg90.cpp"
+}
+]

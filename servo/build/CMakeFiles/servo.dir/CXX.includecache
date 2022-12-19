@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/main.cpp
+signal.h
+-
+stdlib.h
+-
+wiringPi.h
+-
+iostream
+-
+sg90.h
+/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/sg90.h
+
+/home/pi/Desktop/LF09/Visual Studio Code Projects/servo/sg90.h
+
