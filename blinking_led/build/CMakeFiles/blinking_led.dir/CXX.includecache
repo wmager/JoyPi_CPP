@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/LF09/Visual Studio Code Projects/blinking_led/main.cpp
+signal.h
+-
+stdlib.h
+-
+wiringPi.h
+-
+iostream
+-
+

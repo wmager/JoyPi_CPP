@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/Desktop/LF09/Visual Studio Code Projects/blinking_led/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++    -g   -o CMakeFiles/blinking_led.dir/main.cpp.o -c \"/home/pi/Desktop/LF09/Visual Studio Code Projects/blinking_led/main.cpp\"",
+  "file": "/home/pi/Desktop/LF09/Visual Studio Code Projects/blinking_led/main.cpp"
+}
+]
